@@ -1,0 +1,4 @@
+Дата и время вызова функции: 2019-08-18 22:02:52.835110
+Название функции: country
+Аргументы: ({'Aruba': 'https://en.wikipedia.org/wiki/Aruba', 'Afghanistan': 'https://en.wikipedia.org/wiki/Afghanistan', 'Angola': 'https://en.wikipedia.org/wiki/Angola'},)
+Выходной результат: countries_wiki.txt
